@@ -1,7 +1,7 @@
 # Decision-Trees-and-Ensamble-Model-Classification
 The goal of this project was to compare different classification models on the credit card default dataset.
 
-##<b>Learning Outcomes:</b>
+## <b>Learning Outcomes:</b>
 <ul>
 <li>Understand how to use decision trees on a Dataset to make a prediction</li>
 <li>Learning hyper-parameters tuning for decision trees by using RandomGrid</li>
